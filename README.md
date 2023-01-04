@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @greald
-- 👀 I’m interested in ...
+- 👀 I’m interested in Life, the Universe and Everything
 - 🌱 I’m currently learning Codeigniter 4
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me greaties@ghvernuft.nl
